@@ -46,7 +46,7 @@ BlueRemote is an Android app that allows you to control a remote device (such as
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/thehav0k/BlueRemote.git
+   git clone https://github.com/thehav0k/Blue-Remote.git
    ```
 2. Open in Android Studio.
 3. Build and run on your device or emulator.
