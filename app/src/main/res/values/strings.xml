@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="info">Info</string>
+    <string name="app_name">BlueRemote</string>
+    <string name="status_disconnected">Disconnected</string>
+    <string name="status_connected">Connected</string>
+    <string name="no_device">No Device</string>
+    <string name="btn_reconnect">Reconnect</string>
+    <string name="toggle_theme">Toggle Theme</string>
+    <string name="btn_scan_bluetooth">Scan Bluetooth</string>
+    <string name="mode_manual">Manual Mode</string>
+    <string name="desc_forward">Move Forward</string>
+    <string name="desc_left">Turn Left</string>
+    <string name="desc_stop">Stop</string>
+    <string name="desc_right">Turn Right</string>
+    <string name="app_logo">BlueRemote Logo</string>
+    <string name="permission_denied_bluetooth_access">Bluetooth permission denied. Please allow access in settings.</string>
+    <string name="mode_auto">Auto Mode</string>
+    <string name="enter_signal_character">Enter signal character</string>
+    <string name="set_reserved_button">Set Reserved Button</string>
+    <string name="save">Save</string>
+    <string name="enter_one_character">Please enter exactly one character.</string>
+    <string name="cancel">Cancel</string>
+    <string name="select_bluetooth_device">Select Bluetooth Device</string>
+    <string name="please_pair_device_first">Please pair the device first.</string>
+</resources>
+

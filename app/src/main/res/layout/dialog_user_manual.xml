@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:background="@color/surface">
+
+    <TextView
+        android:id="@+id/tvManualTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="User Manual"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:layout_gravity="center_horizontal"
+        android:paddingBottom="12dp"
+        android:textColor="@color/onSurface"/>
+
+    <TextView
+        android:id="@+id/tvManualContent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="\uD83D\uDD0E Character Signal\n\nTo use the Character Signal feature:\n\n1. Connect to your device using the Scan button.\n2. Use the control buttons to send character signals to your device.\n3. Each button corresponds to a specific character or command.\n4. The signal will be displayed in the message area.\n\nButton values:\n- Forward: F\n- Backward: B\n- Left: L\n- Right: R\n- Stop: S\n- Plus: +\n- Minus: -\n- Reserved 1/2: Custom\n\nTip: Make sure your device is paired and within range.\n\nFor more help, contact support."
+        android:textSize="16sp"
+        android:paddingTop="8dp"
+        android:textColor="@color/onSurface"/>
+
+    <Button
+        android:id="@+id/btnCloseManual"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Close"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="18dp"/>
+</LinearLayout>
+
