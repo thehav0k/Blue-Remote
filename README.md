@@ -2,6 +2,8 @@
 
 BlueRemote is an Android app that allows you to control a remote device (such as a robot or car) via Bluetooth using simple character signals. The app features a modern UI with light/dark mode toggle, a user manual, and customizable control buttons.
 
+> 🛠️ **Built with Android Studio, Kotlin, and Kotlin DSL for Gradle.**
+
 ## Features
 
 - **Bluetooth Scanning & Connection**: Scan for nearby Bluetooth devices and connect easily.
@@ -35,7 +37,15 @@ BlueRemote is an Android app that allows you to control a remote device (such as
 
 ## Screenshots
 
-> Add screenshots here to showcase the UI in both light and dark mode.
+### Dark Theme
+![Dark Theme](media/dark.jpg)
+
+### Light Theme
+![Light Theme](media/light.jpg)
+
+### User Manual
+![User Manual](media/usermanual.jpg)
+
 
 ## Requirements
 
